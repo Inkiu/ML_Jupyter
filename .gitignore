@@ -35,3 +35,6 @@ Read the Docs
 config.rst
 venv
 .venv
+
+# data_set
+datasets
