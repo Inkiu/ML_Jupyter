@@ -38,3 +38,6 @@ venv
 
 # data_set
 datasets
+
+# h5
+*.h5
